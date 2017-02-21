@@ -3,6 +3,8 @@ Weather Compare v(0.1.1)
 
 Weather Compare is a web application that takes two cities in the United States and compares the two temperatures for those cities. If the weather difference is positive, the background turns green. If the weather difference is negative, the background turns red.
 
+Use at: http://pearson-goulart.com/weather_compare
+
 Future Updates
 --------------
 
